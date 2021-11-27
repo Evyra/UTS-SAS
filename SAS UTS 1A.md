@@ -9,7 +9,7 @@
 
 3. Memilih bahasa, waktu, keyboard input yang diinginkan lalu -> NEXT
 
-   <img width="514" alt="1" src="https://user-images.githubusercontent.com/93085602/143668525-e5ef3e78-4393-4ea8-ad82-38630e447c84.PNG">
+   <img width="500" alt="1" src="https://user-images.githubusercontent.com/93085602/143668525-e5ef3e78-4393-4ea8-ad82-38630e447c84.PNG">
 
 4. Install now
 
