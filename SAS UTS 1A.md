@@ -15,26 +15,21 @@
 
    <img width="516" alt="2" src="https://user-images.githubusercontent.com/93085602/143668541-01ea23e1-4e29-4473-9daf-f368d02db41c.PNG">
 
-
 5. Pilihlah "windows server 2022 standard Evaluation" lalu -> next
 
-  <img width="514" alt="4" src="https://user-images.githubusercontent.com/93085602/143668546-9f3a98c7-b9d0-4058-9056-e484c304fcb5.PNG">
-
+   <img width="514" alt="4" src="https://user-images.githubusercontent.com/93085602/143668546-9f3a98c7-b9d0-4058-9056-e484c304fcb5.PNG">
 
 6. Centang checkbox "I agree" lalu -> next
 
    <img width="512" alt="5" src="https://user-images.githubusercontent.com/93085602/143668551-59c2f600-59ea-4817-bc06-02ff061a76a3.PNG">
 
-
 7. Memilih tipe instalasi, pilihlan "Custom: install"
 
    <img width="514" alt="6" src="https://user-images.githubusercontent.com/93085602/143668558-d47fa4cd-178e-481f-bea7-e8c46cc8aadf.PNG">
 
-
 8. Menentukan drive yang akan digunakan lalu -> next
    
    <img width="513" alt="7" src="https://user-images.githubusercontent.com/93085602/143668564-52efa107-c1de-48f5-b91d-f005a884f194.PNG">
-
 
 9. Tunggu hingga instalasi selesai lalu -> restart now
 
@@ -63,7 +58,7 @@
 
 15.  Pilih file location -> next 
 
-    <img width="515" alt="17" src="https://user-images.githubusercontent.com/93085602/143668624-8a848bff-5f14-41dc-b68d-272ef7559bbb.PNG">
+    <img width="515" alt="17" src="https://user-images.githubusercontent.com/93085602/143668830-79ff993a-7683-450c-a7fb-a90b45473994.PNG">
 
 16. Install 
 
