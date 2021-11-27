@@ -82,5 +82,65 @@
 
     <img width="515" alt="23" src="https://user-images.githubusercontent.com/93085602/143668653-53b423e9-199c-42d8-914d-f218c926faac.PNG">
 
+
 <h2>B. INSTALASI ACTIVE DIRECTORY DOMAIN SERVICE</h2>
-1. 
+
+
+1. Buka Command Prompt lalu cek ipconfig
+
+<img width="505" alt="1b" src="https://user-images.githubusercontent.com/93085602/143680662-cc04c088-d0b9-49fe-a383-3e0e26b0813c.PNG">
+
+2. Search "Server Manager" 
+
+<img width="512" alt="server" src="https://user-images.githubusercontent.com/93085602/143680731-d9ce6018-eba7-40a9-a7d0-82ee2c0ea651.PNG">
+
+3. Buka Server Manager
+
+<img width="514" alt="2b" src="https://user-images.githubusercontent.com/93085602/143680755-dfc028c7-47f4-4ec3-a3c4-080c9c549e83.PNG">
+
+4. Pilih menu "Manage" -> "Add Roles and Features"
+
+<img width="514" alt="1d" src="https://user-images.githubusercontent.com/93085602/143680816-5dda13b7-170d-4d4f-9313-799cb126d7d5.PNG">
+
+5. Lalu next 
+
+<img width="516" alt="3b" src="https://user-images.githubusercontent.com/93085602/143680800-01496984-7212-4468-8bc3-fdd9c773db49.PNG">
+
+6. Selanjutnya kita akan menggunakan aturan default dari sistem "Role-based or feature-based installation" lalu Next
+
+<img width="512" alt="4b" src="https://user-images.githubusercontent.com/93085602/143680857-6b5a6115-904a-47f6-8653-b7233de29fb2.PNG">
+
+7. Klik "select a server from the server pool" lalu akan ada tampilan default penyimpanan yang akan digunakan lalu -> Next
+
+<img width="514" alt="5b" src="https://user-images.githubusercontent.com/93085602/143681026-c9fc1210-28ce-4683-8c86-d8963f1d6763.PNG">
+
+8. Pada Server Roles, pilihlah checkbox "Active Directory Domain Services"
+
+<img width="513" alt="6b" src="https://user-images.githubusercontent.com/93085602/143681117-14012582-cc01-49f3-ad04-2ec061ed9a80.PNG">
+
+9. Akan muncul notif penjelasan dari <b>"Active Directory Domain Services"</b>. Centang <b>"Include management tools"</b> lalu -> <b>"Add Feature"</b> lalu -> NEXT
+
+<img width="515" alt="7b" src="https://user-images.githubusercontent.com/93085602/143681125-51e995c1-c4fc-460a-bcdb-a787063fc935.PNG">
+
+10. Klik checkbox <b>"Group Policy Management"</b> lalu -> NEXT
+
+<img width="514" alt="9b" src="https://user-images.githubusercontent.com/93085602/143681172-cc57a2c4-03a8-4dab-bd29-1a4934dcf8fb.PNG">
+
+11. Akan ada tampilan penjelasan dari <b>"Active Directory Domain Services"</b> lalu -> NEXT
+
+<img width="512" alt="10b" src="https://user-images.githubusercontent.com/93085602/143681206-e67fc221-fa6e-42f5-b8ac-64cf7575cccf.PNG">
+
+12. Pilih INSTALL
+
+<img width="515" alt="11b" src="https://user-images.githubusercontent.com/93085602/143681221-98b07f03-4c76-44ce-ad20-3277733c4838.PNG">
+
+13. Selesai Instalasi, kita dapat mengabaikan pesan yang ditampilkan
+
+<img width="513" alt="14b" src="https://user-images.githubusercontent.com/93085602/143681264-deb73121-664e-4e23-9775-f3940ff04ae4.PNG">
+
+14. Jika <b>"Active Directory Domain Services"</b> sudah terinstall maka akan tampil seperti berikut
+
+<img width="513" alt="15b" src="https://user-images.githubusercontent.com/93085602/143681304-58fc464a-fd72-407f-97e3-8f93401a7a3b.PNG">
+
+
+<h2>C. INSTALASI DNS SERVER</h2>
