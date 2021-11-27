@@ -82,3 +82,5 @@
 
     <img width="515" alt="23" src="https://user-images.githubusercontent.com/93085602/143668653-53b423e9-199c-42d8-914d-f218c926faac.PNG">
 
+<h2>B. INSTALASI ACTIVE DIRECTORY DOMAIN SERVICE</h2>
+1. 
