@@ -219,7 +219,7 @@
 
 5. Akan muncul tampilan "Select Feature" pilih checkbox <b>".NET Framework 3.5 Features"</b> lalu NEXT
 
-   <img width="500" alt="6c" src="https://user-images.githubusercontent.com/93085602/143681684-cf3edf9e-9ed0-44be-be4b-9909686d76f1.PNG">
+   <img width="512" alt="6d" src="https://user-images.githubusercontent.com/93085602/143683453-e27c9dbc-c13b-4916-98f7-f63a95fd57f1.PNG">
 
 7. Akan muncul konfirmasi apakah kita tetap lanjut menginstall<b>".NET Framework 3.5 Features"</b>. Pilih <b>"INSTALL"</b>
 
