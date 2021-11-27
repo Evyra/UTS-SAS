@@ -200,6 +200,7 @@
 <h2>D. INSTALASI NET FRAMEWORK 3.5</h2>
 
 
+
 1. Buka Server Manager lalu pilih menu <b>Manage -> "Add Roles and Features"</b>
 
    <img width="500" alt="2d" src="https://user-images.githubusercontent.com/93085602/143681987-5bbe9c47-a961-4513-b341-1707b30c40d8.PNG">
