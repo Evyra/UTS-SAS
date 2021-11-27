@@ -56,10 +56,10 @@
 
     <img width="516" alt="15" src="https://user-images.githubusercontent.com/93085602/143668615-4d2586b4-6d2c-4ba0-a600-0e46a82a5108.PNG">
 
-15.  Pilih file location -> next 
+15. Pilih file location -> next 
 
-    <img width="515" alt="17" src="img/17.png">
-
+    <img width="516" alt="18" src="https://user-images.githubusercontent.com/93085602/143668903-5a981782-8140-492d-9f95-187b33af8e4b.PNG">
+ 
 16. Install 
 
     <img width="516" alt="18" src="https://user-images.githubusercontent.com/93085602/143668633-95fa49d9-14f0-498e-ace7-e6243eedfe4f.PNG">
