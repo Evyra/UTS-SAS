@@ -58,8 +58,8 @@
 
 15. Pilih file location -> next 
 
-    <img width="516" alt="18" src="https://user-images.githubusercontent.com/93085602/143668903-5a981782-8140-492d-9f95-187b33af8e4b.PNG">
- 
+    <img width="515" alt="17" src="https://user-images.githubusercontent.com/93085602/143668924-325ad73e-96f8-44af-badc-0898d2f0d481.PNG">
+
 16. Install 
 
     <img width="516" alt="18" src="https://user-images.githubusercontent.com/93085602/143668633-95fa49d9-14f0-498e-ace7-e6243eedfe4f.PNG">
